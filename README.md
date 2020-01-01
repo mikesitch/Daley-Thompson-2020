@@ -17,3 +17,8 @@ The updates include:
 ![Daley2020](https://user-images.githubusercontent.com/40662598/71630750-aea4a480-2bfc-11ea-8516-ac144fca36de.png)
 
 ![DaleyLongJump](https://user-images.githubusercontent.com/40662598/71630766-cb40dc80-2bfc-11ea-91ba-c5c61ec740b3.png)
+
+# Play
+
+To play the game load daley2020.tzx into your favourite emulator.
+
