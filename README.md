@@ -9,7 +9,7 @@ This is an update to the classic 1984 game for the ZX Spectrum 48K, which I love
 The updates include:
 
 * All 10 events in a single game.  It used to drive me nuts that days 1 and 2 were individual games on either side of the tape.
-* Having to take all 3 throws/jumps even when you nailed qualification on the first was annoying.  In this version once you achieve the qualification standard you move on.  The Pole Vault and High Jump events start at the qualification height.
+* Having to take all 3 throws/jumps even when you nailed qualification on the first was annoying.  In this version once you achieve qualification you move on.  The Pole Vault and High Jump events start at the qualification height.
 * Modern standards: You're now disqualified on the first false start (previously 3 before disqualification).
 * Fixed some bugs: On the running events you can no longer let the clock roll over and run the 400 metres in 0.2 seconds!
 * Stamina: The 1500 metres is the same as the other running events, i.e. bash the keyboard for the full distance.  This is one to test your endurance.
@@ -22,4 +22,4 @@ The updates include:
 
 To play the game load daley2020.tzx into your favourite emulator.
 
-If your on Windows 10 I can recommend a good one [here](https://www.microsoft.com/store/apps/9NBLGGH2NZXB) :smirk:
+For Windows 10 I can recommend a good one [here](https://www.microsoft.com/store/apps/9NBLGGH2NZXB) :smirk:
