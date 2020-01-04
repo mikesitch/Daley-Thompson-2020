@@ -20,6 +20,6 @@ The updates include:
 
 # Play
 
-To play the game load daley2020.tzx into your favourite emulator.
+To play the game load daley2020.tzx or daley2020.tap into your favourite emulator.
 
 For Windows 10 I can recommend a good one [here](https://www.microsoft.com/store/apps/9NBLGGH2NZXB) :smirk:
